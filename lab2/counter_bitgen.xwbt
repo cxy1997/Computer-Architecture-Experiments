@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=E:\cxy\counter\counter.ncd
+OUTFILE=E:\cxy\counter\counter.bit
+FAMILY=Spartan3E
+PART=xc3s500e-4fg320
+WORKINGDIR=E:\cxy\counter
+LICENSE=ISE
+USER_INFO=211183177_1777516887_210631861_248

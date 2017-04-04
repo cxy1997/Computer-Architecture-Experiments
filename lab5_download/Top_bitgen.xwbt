@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=E:\cxy\lab5\Top.ncd
+OUTFILE=E:\cxy\lab5\Top.bit
+FAMILY=Spartan3E
+PART=xc3s500e-4fg320
+WORKINGDIR=E:\cxy\lab5
+LICENSE=WebPack
+USER_INFO=210724894_0_0_572

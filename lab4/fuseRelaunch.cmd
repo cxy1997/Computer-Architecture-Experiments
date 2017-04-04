@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -o "E:/cxy/lab4/test_for_datamem_isim_beh.exe" -prj "E:/cxy/lab4/test_for_datamem_beh.prj" "work.test_for_datamem" "work.glbl" 
